@@ -1,7 +1,7 @@
-POST https://8080-marcoweb-j2projetomodel-rya3pcfv47n.ws-us110.gitpod.io/questoes
+POST https://8080-joaofaggion17-j2projetomodel-rya3pcfv47n.ws-us110.gitpod.io/questoes
 Content-Type: application/json
 
 {
-    "enunciado" : "Questão de Teste 2",
+    "enunciado" : "Comédia",
     "categoria" : {"id" : 1}
 }
